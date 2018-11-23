@@ -44,9 +44,9 @@ Follow these steps to change the polarization of the above LiPo and install it i
 
       * For the discharge lead (See Figure 1, Lead 2.) use a very small flat-head screwdriver and carefully remove the metal pins from the plastic plug. As an alternative you can also use the Futuba plug (See Figure 1, Lead 3) and place the battery sideways into the bay.
 
-        __**Important: Ensure that the metal pins don&#8217;t touch each other! This will shorten the battery and can cause damage.
+        __**Important: Ensure that the metal pins don&#8217;t touch each other! This will shorten the battery and can cause damage.**__
 
-**__ </p> <div id="attachment_105" style="width: 615px" class="wp-caption aligncenter">
+        </p> <div id="attachment_105" style="width: 615px" class="wp-caption aligncenter">
           <a href="/content/uploads/2014/07/changeplug.png"><img class="size-large wp-image-105" src="/content/uploads/2014/07/changeplug.png?w=605" alt="Figure 2: Removing the metal pins from underneath the plastic clip" width="605" height="136" srcset="/content/uploads/2014/07/changeplug.png 4602w, /content/uploads/2014/07/changeplug-300x67.png 300w, /content/uploads/2014/07/changeplug-1024x231.png 1024w" sizes="(max-width: 605px) 100vw, 605px" /></a>
 
           <p class="wp-caption-text">
