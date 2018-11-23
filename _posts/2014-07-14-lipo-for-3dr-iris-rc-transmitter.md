@@ -40,7 +40,7 @@ Follow these steps to change the polarization of the above LiPo and install it i
       <p class="wp-caption-text">
         Figure 1: Lipo Charge/Discharge Leads
       </p>
-    </div></li>
+    </div>
 
       * For the discharge lead (See Figure 1, Lead 2.) use a very small flat-head screwdriver and carefully remove the metal pins from the plastic plug. As an alternative you can also use the Futuba plug (See Figure 1, Lead 3) and place the battery sideways into the bay.
 
