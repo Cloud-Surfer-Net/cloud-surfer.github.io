@@ -1,0 +1,10 @@
+<div id="categories-4" class="widget-wrapper widget_categories">
+  <div id="widget-title-one" class="widget-title-home">
+    <h3>Posts by Tag</h3>
+  </div>
+  <ul>
+    {% for tag in site.blog_tags | sort:"value" %}
+      <li><a href="{{ tag.url }}" class="tag-cloud-link tag-link-27 tag-link-position-1" style="font-size: 1em;" aria-label="{{ tag.title }}">{{ tag.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>

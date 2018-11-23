@@ -1,0 +1,44 @@
+---
+layout: null
+---
+{% include header.html %}
+
+		<div id="featured" class="grid col-940">
+			<div id="featured-content" class="grid col-460">
+				<h1 class="featured-title">Quadcopters...</h1>
+				<h2 class="featured-subtitle">... and more!</h2>
+				<p>Learn more about flying, using and extending quadcopters such as the 3DR IRIS+ or the 3DR Solo. Both use the Pixhawk flight controller with <a href="http://copter.ardupilot.com/" target="_blank">ArduCopter</a>, the open source universal autopilot platform.</p>
+				<div class="call-to-action">
+					<a href="/category/3dr-iris/" class="blue button">Get Started!</a>
+				</div><!-- end of .call-to-action -->
+			</div><!-- end of .col-460 -->
+
+			<div id="featured-image" class="grid col-460 fit">
+				<p><a href="/assets/images/IRIS-Solo.jpg"><img class="aligncenter size-medium wp-image-326" src="https://www.cloud-surfer.net/wp-content/uploads/2015/05/IRIS-Solo-300x264.jpg" alt="3DR IRIS+ / 3DR Solo" width="300" height="264" /></a></p>
+			</div><!-- end of #featured-image -->
+
+		</div><!-- end of #featured -->
+	</div>
+
+	<div id="content-outer">
+		<div id="widgets" class="home-widgets" role="complementary">
+			<div id="home_widget_1" class="grid col-300">
+				{% include tags.html %}
+			</div><!-- end of .col-300 -->
+
+			<div id="home_widget_2" class="grid col-300">
+				{% include recent-posts.html %}
+			</div><!-- end of .col-300 -->
+
+			<div id="home_widget_3" class="grid col-300 fit">
+				{% include advertisement-small.html %}
+			</div><!-- end of .col-300 fit -->
+
+		</div><!-- end of #widgets -->
+	</div>
+</div><!-- end of #wrapper -->
+
+
+</div><!-- end of #container -->
+
+		 {% include footer.html %}

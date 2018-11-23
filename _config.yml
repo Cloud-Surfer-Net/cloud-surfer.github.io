@@ -1,0 +1,37 @@
+url: https://www.cloud-surfer.net
+title: Cloud Surfer
+description: Quadcopter and more
+timezone: America/Los_Angeles
+twitter_username: ChristianElsen
+collections:
+  authors:
+    title: Authors
+    output: true
+  blog_categories:
+    title: categories
+    output: true
+  blog_tags:
+    title: tags
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: authors
+  values:
+    permalink: "/author/:title/"
+    layout: author
+- scope:
+    path: ''
+    type: blog_categories
+  values:
+    layout: categories
+- scope:
+    path: ''
+    type: blog_tags
+  values:
+    layout: tags
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge

@@ -1,0 +1,9 @@
+
+	<div id="recent-posts-4" class="widget-wrapper widget_recent_entries">
+		<div id="widget-title-two" class="widget-title-home"><h3>Recent Posts</h3></div>
+			<ul>
+				{% for post in site.posts limit:7 %}
+				<li><a href="{{ post.url }}" title="{{ post.title }}" >{{ post.title }}</a></li>
+				{% endfor %}
+			</ul>
+		</div>
