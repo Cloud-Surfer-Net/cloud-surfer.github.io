@@ -1,6 +1,7 @@
 ---
 id: 5
 title: About
+permalink: /about/
 date: 2015-08-13T06:40:39+00:00
 author: Christian Elsen
 layout: page
