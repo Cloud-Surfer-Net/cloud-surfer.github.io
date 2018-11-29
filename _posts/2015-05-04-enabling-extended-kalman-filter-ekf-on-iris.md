@@ -5,6 +5,8 @@ date: 2015-05-04T19:20:58+00:00
 author: Christian Elsen
 layout: post
 permalink: /2015/05/04/enabling-extended-kalman-filter-ekf-on-iris/
+redirect_from: 
+  - /2015/05/04/enabling-extended-kalman-filter-ekf-on-iris/amp/
 image: /content/uploads/2015/05/EKF_Enable_02.png
 thumbnail: /content/uploads/2015/05/EKF_Enable_02-e1438903708540-142x150.png
 categories:
