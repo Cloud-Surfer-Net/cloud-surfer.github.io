@@ -5,6 +5,8 @@ date: 2014-09-03T15:42:05+00:00
 author: Christian Elsen
 layout: post
 permalink: /2014/09/03/using-region-of-interest-roi-with-droidplanner2/
+redirect_from: 
+  - /2014/09/03/using-region-of-interest-roi-with-droidplanner2/amp/
 image: /content/uploads/2014/09/screenshot_2014-09-02-20-50-06-672x372.png
 thumbnail: /content/uploads/2014/09/screenshot_2014-09-02-20-50-06-150x150.png
 categories:
