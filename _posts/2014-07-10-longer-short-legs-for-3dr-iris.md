@@ -5,6 +5,8 @@ date: 2014-07-10T15:57:07+00:00
 author: Christian Elsen
 layout: post
 permalink: /2014/07/10/longer-short-legs-for-3dr-iris/
+redirect_from: 
+  - /2014/07/10/longer-short-legs-for-3dr-iris/amp/
 image: /content/uploads/2014/07/2014041708-52-58-672x372.jpg
 thumbnail: /content/uploads/2014/07/2014041708-52-58-e1438903085146-144x150.jpg
 categories:
