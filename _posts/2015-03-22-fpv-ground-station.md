@@ -5,6 +5,8 @@ date: 2015-03-22T15:56:18+00:00
 author: Christian Elsen
 layout: post
 permalink: /2015/03/22/fpv-ground-station/
+redirect_from: 
+  - /2015/03/22/fpv-ground-station/amp/
 image: /content/uploads/2015/03/2015-03-22-11.50.20-e1427064399146.jpg
 thumbnail: /content/uploads/2015/03/2015-03-22-11.50.20-e1438903967304-139x150.jpg
 categories:
