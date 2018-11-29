@@ -5,6 +5,8 @@ date: 2014-07-11T09:59:02+00:00
 author: Christian Elsen
 layout: post
 permalink: /2014/07/11/get-rid-of-jello-with-the-tarot-t-2d-gimbal/
+redirect_from: 
+  - /2014/07/11/get-rid-of-jello-with-the-tarot-t-2d-gimbal/amp/
 image: /wp-content/uploads/2014/07/motorscreen.png
 thumbnail: /content/uploads/2014/07/motorscreen-150x150.png
 categories:
