@@ -5,6 +5,8 @@ date: 2014-07-10T15:40:15+00:00
 author: Christian Elsen
 layout: post
 permalink: /2014/07/10/tablet-mount-for-iris-radio/
+redirect_from: 
+  - /2014/07/10/tablet-mount-for-iris-radio/amp/
 image: /content/uploads/2014/07/gcs1-600x372.jpg
 thumbnail: /content/uploads/2014/07/gcs1-150x150.jpg
 categories:
