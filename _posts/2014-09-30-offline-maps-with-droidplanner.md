@@ -5,6 +5,8 @@ date: 2014-09-30T15:11:14+00:00
 author: Christian Elsen
 layout: post
 permalink: /2014/09/30/offline-maps-with-droidplanner/
+redirect_from: 
+  - /2014/09/30/offline-maps-with-droidplanner/amp/
 image: /content/uploads/2014/09/screenshot_2014-09-29-22-58-01-672x372.png
 thumbnail: /content/uploads/2014/09/screenshot_2014-09-29-22-58-01-150x150.png
 categories:
