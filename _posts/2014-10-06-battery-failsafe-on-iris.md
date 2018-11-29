@@ -5,6 +5,8 @@ date: 2014-10-06T17:56:26+00:00
 author: Christian Elsen
 layout: post
 permalink: /2014/10/06/battery-failsafe-on-iris/
+redirect_from: 
+  - /2014/10/06/battery-failsafe-on-iris/amp/
 image: /content/uploads/2014/10/location-672x372.png
 thumbnail: /content/uploads/2014/10/location-e1438904293921-150x132.png
 categories:
