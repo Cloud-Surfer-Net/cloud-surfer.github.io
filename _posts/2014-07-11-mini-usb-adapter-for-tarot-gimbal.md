@@ -5,6 +5,8 @@ date: 2014-07-11T09:20:59+00:00
 author: Christian Elsen
 layout: post
 permalink: /2014/07/11/mini-usb-adapter-for-tarot-gimbal/
+redirect_from: 
+  - /2014/07/11/mini-usb-adapter-for-tarot-gimbal/amp/
 image: /wp-content/uploads/2014/07/51mubdmxval-_sl1500_-e1405095739429.jpg
 thumbnail: /content/uploads/2014/07/51mubdmxval-_sl1500_-e1405095739429.jpg
 categories:
