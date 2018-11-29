@@ -5,6 +5,8 @@ date: 2014-09-28T16:46:20+00:00
 author: Christian Elsen
 layout: post
 permalink: /2014/09/28/fpv-setup-for-iris/
+redirect_from: 
+  - /2014/09/28/fpv-setup-for-iris/amp/
 image: /content/uploads/2014/09/finalsetup-672x372.jpg
 thumbnail: /content/uploads/2014/09/finalsetup-150x150.jpg
 categories:
