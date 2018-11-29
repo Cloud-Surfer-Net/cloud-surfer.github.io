@@ -5,6 +5,8 @@ date: 2014-09-20T16:25:15+00:00
 author: Christian Elsen
 layout: post
 permalink: /2014/09/20/mounting-the-iris-telemetry-antenna-differently/
+redirect_from: 
+  - /2014/09/20/mounting-the-iris-telemetry-antenna-differently/amp/
 image: /content/uploads/2014/09/2014-09-19-21-02-51-672x372.jpg
 thumbnail: /content/uploads/2014/09/2014-09-19-21-02-51-150x150.jpg
 categories:
