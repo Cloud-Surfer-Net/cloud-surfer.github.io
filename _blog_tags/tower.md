@@ -1,4 +1,4 @@
 ---
-title: tower
+title: Tower
 permalink: "/tag/tower/"
 ---
