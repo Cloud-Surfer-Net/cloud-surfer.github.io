@@ -5,6 +5,8 @@ date: 2014-07-25T15:37:21+00:00
 author: Christian Elsen
 layout: post
 permalink: /2014/07/25/protecting-the-iris-telemetry-antenna-against-damage/
+redirect_from: 
+  - /2014/07/25/protecting-the-iris-telemetry-antenna-against-damage/amp/
 image: /content/uploads/2014/07/2014-07-23-18-12-25-672x372.jpg
 thumbnail: /content/uploads/2014/07/2014-07-23-18-12-25-150x150.jpg
 categories:
