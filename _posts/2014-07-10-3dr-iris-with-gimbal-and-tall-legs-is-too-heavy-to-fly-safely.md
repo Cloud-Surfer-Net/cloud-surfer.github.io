@@ -5,6 +5,8 @@ date: 2014-07-10T14:32:17+00:00
 author: Christian Elsen
 layout: post
 permalink: /2014/07/10/3dr-iris-with-gimbal-and-tall-legs-is-too-heavy-to-fly-safely/
+redirect_from: 
+  - /2014/07/10/3dr-iris-with-gimbal-and-tall-legs-is-too-heavy-to-fly-safely/amp/
 image: /content/uploads/2014/07/iris_side_with_gimbal-600x372.jpg
 thumbnail: /content/uploads/2014/07/iris_side_with_gimbal-150x150.jpg
 categories:
