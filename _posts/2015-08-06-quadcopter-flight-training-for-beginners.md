@@ -5,6 +5,8 @@ date: 2015-08-06T14:28:54+00:00
 author: Christian Elsen
 layout: post
 permalink: /2015/08/06/quadcopter-flight-training-for-beginners/
+redirect_from: 
+  - /2015/08/06/quadcopter-flight-training-for-beginners/amp/
 image: /content/uploads/2015/08/UpDown.png
 thumbnail: /content/uploads/2015/08/UpDown-150x150.png
 categories:
