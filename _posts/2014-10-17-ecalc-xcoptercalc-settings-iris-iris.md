@@ -5,6 +5,8 @@ date: 2014-10-17T17:14:10+00:00
 author: Christian Elsen
 layout: post
 permalink: /2014/10/17/ecalc-xcoptercalc-settings-iris-iris/
+redirect_from: 
+  - /2014/10/17/ecalc-xcoptercalc-settings-iris-iris/amp/
 image: /content/uploads/2014/10/IRIS-Plus.png
 thumbnail: /content/uploads/2014/10/IRIS-Plus-150x150.png
 categories:
