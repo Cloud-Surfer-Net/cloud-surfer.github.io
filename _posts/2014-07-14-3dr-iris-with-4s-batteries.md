@@ -5,6 +5,8 @@ date: 2014-07-14T12:20:25+00:00
 author: Christian Elsen
 layout: post
 permalink: /2014/07/14/3dr-iris-with-4s-batteries/
+redirect_from: 
+  - /2014/07/14/3dr-iris-with-4s-batteries/amp/
 image: /content/uploads/2014/07/4s_props1.png
 thumbnail: /content/uploads/2014/07/4s_props1-150x150.png
 categories:
