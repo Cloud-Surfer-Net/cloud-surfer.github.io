@@ -5,6 +5,8 @@ date: 2014-09-12T12:21:40+00:00
 author: Christian Elsen
 layout: post
 permalink: /2014/09/12/high-hdop-values-when-flying-iris/
+redirect_from: 
+  - /2014/09/12/high-hdop-values-when-flying-iris/amp/
 image: /content/uploads/2014/09/xdop_berkeley-672x372.png
 thumbnail: /content/uploads/2014/09/xdop_berkeley-150x150.png
 categories:
