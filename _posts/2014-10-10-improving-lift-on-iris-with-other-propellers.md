@@ -5,6 +5,8 @@ date: 2014-10-10T15:44:15+00:00
 author: Christian Elsen
 layout: post
 permalink: /2014/10/10/improving-lift-on-iris-with-other-propellers/
+redirect_from: 
+  - /2014/10/10/improving-lift-on-iris-with-other-propellers/amp/
 image: /content/uploads/2014/10/counter-clockwise-672x372.jpg
 thumbnail: /content/uploads/2014/10/counter-clockwise-150x150.jpg
 categories:
