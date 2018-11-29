@@ -5,6 +5,8 @@ date: 2015-05-02T18:01:23+00:00
 author: Christian Elsen
 layout: post
 permalink: /2015/05/02/advanced-charger-for-iris/
+redirect_from: 
+  - /2015/05/02/advanced-charger-for-iris/amp/
 image: /content/uploads/2015/05/715HAEATU6L._SL1200_.jpg
 thumbnail: /content/uploads/2015/05/715HAEATU6L._SL1200_-150x150.jpg
 categories:
